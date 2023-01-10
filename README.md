@@ -1,6 +1,6 @@
-### Whooohooo! 
+### Whooohooo...! 
 
-<h1 align="center">Hi 👋, I'm Glory Gupta</h1>
+<h1 align="center">Hello! 👋, I'm Glory Gupta</h1>
 <h3 align="center">A passionate about DSA and Competitive Programming.</h3>
 
 - 🌱 I’m currently learning **JavaScript, MERN**
