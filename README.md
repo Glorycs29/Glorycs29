@@ -10,6 +10,7 @@
 - 📫 How to reach me **https://www.linkedin.com/in/glory-gupta-726413204/**
 
 - ⚡ Fun fact **I'm a quick learner, technology makes me curious.**
+- [![An image of @glorycs29's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/glorycs29)](https://holopin.io/@glorycs29)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
