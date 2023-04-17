@@ -3,13 +3,13 @@
 <h1 align="center">Hello! 👋, I'm Glory Gupta</h1>
 <h3 align="center">A passionate about DSA and Competitive Programming.</h3>
 
-- 🌱 I’m currently learning **JavaScript, MERN**
+- 🌱 I’m currently learning **JavaScript, Advance DSA**
 
-- 💬 Ask me about **C++,C, Operating system, DSA, Object Oriented Programming**
+- 💬 Ask me about **C++,C, Operating system, DSA, Object Oriented Programming, Software Engineering, Computer Networks, Real Time System, DBMS**
 
 - 📫 How to reach me **https://www.linkedin.com/in/glory-gupta-726413204/**
 
-- ⚡ Fun fact **I'm a quick learner, technology makes me curious.**
+- ⚡ Fun fact **I'm a quick learner and technology makes me curious, I love to play Table Tennis in my free time.**
 
 
 
