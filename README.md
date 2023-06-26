@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glorycs29" alt="glorycs29" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, MERN**
+- 🌱 I’m currently learning **JavaScript, React**
 
-- 💬 Ask me about **C++,C, Operating system, DSA, Object Oriented Programming, Real time system, Compiler Design**
+- 💬 Ask me about **C++, C, Operating system, DSA, Object Oriented Programming, Real-time system, Compiler Design, HTML, CSS, ReactJS, JavaScript**
 
 - 📫 How to reach me **https://www.linkedin.com/in/glory-gupta-726413204/**
 
