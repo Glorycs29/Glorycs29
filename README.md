@@ -14,8 +14,8 @@
 
 - ⚡ Fun fact **I'm a quick learner, technology makes me curious.**
 
-  ### Hire Me
-  [Know more about how we can collaborate professionally]([https://www.linkedin.com/in/glory-gupta-726413204/])
+- # Hire Me
+  [Know more about how we can collaborate professionally](https://www.linkedin.com/in/glory-gupta-726413204/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
