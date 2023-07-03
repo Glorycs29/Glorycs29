@@ -1,7 +1,7 @@
 ### Whooohooo...! 
 
 <h1 align="center">Hi 👋, I'm Glory Gupta</h1>
-<h3 align="center">Glory's passionate about DSA, Competitive Programming and Development.</h3>
+<h3 align="center">Passionate for DSA, Competitive Programming, and Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glorycs29&label=Profile%20views&color=0e75b6&style=flat" alt="glorycs29" /> </p>
 
