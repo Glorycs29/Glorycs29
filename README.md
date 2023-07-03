@@ -1,6 +1,6 @@
  #### <h3>wassup nerds! 🖖</h3>
 <h1 align="center">This is Glory Gupta</h1>
-<h3 align="center">Passionate for DSA, Competitive Programming, UI/UX and Development.</h3>
+<h3 align="center">Passionate for DSA, Competitive Programming, UI/UX, and Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glorycs29&label=Profile%20views&color=0e75b6&style=flat" alt="glorycs29" /> </p>
 
@@ -10,12 +10,9 @@
 
 - 💬 Ask me about **C++, C, Operating system, DSA, Object Oriented Programming, Real-time system, Compiler Design, HTML, CSS, ReactJS, JavaScript**
 
-- 📫 How to reach me **https://www.linkedin.com/in/glory-gupta-726413204/**
+- 📫 [How to reach me](https://www.linkedin.com/in/glory-gupta-726413204/)
 
 - ⚡ Fun fact **I'm a quick learner, technology makes me curious.**
-
-- # Hire Me
-  [Know more about how we can collaborate professionally](https://www.linkedin.com/in/glory-gupta-726413204/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
