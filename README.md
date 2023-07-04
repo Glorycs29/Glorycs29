@@ -1,4 +1,4 @@
- #### <h3>HEY, HEY, HEY Codiphile! 🖖</h3>
+ #### <h3>HEY, HEY, HEY Codiphile! 🤖</h3>
 <h1 align="center">This is Glory Gupta</h1>
 <h3 align="center">Passionate for DSA, Competitive Programming, UI/UX, and Development.</h3>
 
