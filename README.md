@@ -1,4 +1,4 @@
- #### <h3>wassup nerds! 🖖</h3>
+ #### <h3>HEY, HEY, HEY Codiphile! 🖖</h3>
 <h1 align="center">This is Glory Gupta</h1>
 <h3 align="center">Passionate for DSA, Competitive Programming, UI/UX, and Development.</h3>
 
@@ -39,3 +39,20 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=glorycs29&show_icons=true&locale=en" alt="glorycs29" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glorycs29&" alt="glorycs29" /></p>
+
+
+
+### 😎 My Important Repos:
+
+1. [Binary Search](https://github.com/Glorycs29/Binary_Search)
+2. [Codeforces](https://github.com/Glorycs29/CodeForces)
+3. [NR_AceCoding Practice](https://github.com/Glorycs29/NR_AceCoding_Practice)
+4. [GitHub Learning](https://github.com/Glorycs29/GitHub_Learning)
+5. [CPP STL-Handbook](https://github.com/Glorycs29/CPP_STL_Handbook)
+6. [HTML-CSS](https://github.com/Glorycs29/HTML-CSS)
+7. [Hackerearth-Practice](https://github.com/Glorycs29/Practice)
+8. [CS-Core-Revision](https://github.com/Glorycs29/CS-Core-Revision)
+9. [Advance-DS-Implementation](https://github.com/Glorycs29/Advance_DS_implementation)
+10. [Basic-DS-Implementation](https://github.com/Glorycs29/Basic_DS_implemention)
+11. [Sorting-Algorithms](https://github.com/Glorycs29/All_Sorting_Algo)
+
