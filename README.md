@@ -1,5 +1,7 @@
- #### <h3>HEY, HEY, HEY Codiphile! 🤖</h3>
-<h1 align="center">This is Glory Gupta</h1>
+ #### <h3></h1>
+ HEY, HEY, HEY Codiphile! 🤖 </h1>
+ </h3>
+<h1 align="center">This is Glory Gupta  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <h3 align="center">Passionate for DSA, Competitive Programming, UI/UX, and Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glorycs29&label=Profile%20views&color=0e75b6&style=flat" alt="glorycs29" /> </p>
