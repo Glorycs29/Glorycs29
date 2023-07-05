@@ -56,4 +56,5 @@
 10. [Basic-DS-Implementation](https://github.com/Glorycs29/Basic_DS_implemention)
 11. [Sorting-Algorithms](https://github.com/Glorycs29/All_Sorting_Algo)
 12. [Bit-Manipulation](https://github.com/Glorycs29/Bit_Manipulation/tree/main)
+13. [My-Learning](https://github.com/Glorycs29/My_Learnings)
 
