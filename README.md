@@ -65,5 +65,5 @@
 11. [Sorting-Algorithms](https://github.com/Glorycs29/All_Sorting_Algo)
 12. [Bit-Manipulation](https://github.com/Glorycs29/Bit_Manipulation/tree/main)
 13. [My-Learning](https://github.com/Glorycs29/My_Learnings)
-14. [All-Projects]()
+14. [All-Projects](https://github.com/Glorycs29/All-Projects)
 
