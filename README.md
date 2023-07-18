@@ -2,7 +2,7 @@
  #### <h3></h1>
  HEY, HEY, HEY Codiphile! 🤖 </h1>
  </h3>
-<h1 align="center">This is Glory Gupta  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center"> This is Glory Gupta  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <p align="center">
  
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -37,7 +37,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> <img class=" lazyloaded" src="https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/blob/master/Emojis/Activities/Party%20Popper.png?raw=true" alt="Party Popper" title="Party Popper" width="31" height="31">
+ Connect with me: <img class=" lazyloaded" src="https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/blob/master/Emojis/Activities/Party%20Popper.png?raw=true" alt="Party Popper" title="Party Popper" width="31" height="31">
+ </h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/glory-gupta-726413204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/glory-gupta-726413204/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/yuneeshi071999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/yuneeshi071999" height="30" width="40" /></a>
@@ -72,22 +74,38 @@
 
 ![Gif](https://github.com/tuhinaww/Animating-Buttons/assets/119059108/55243a1c-ef56-4e37-86ef-48f2b1036c76)
 
+
+
 ### 😎 My Important Repos:
 
-1. [Binary Search](https://github.com/Glorycs29/Binary_Search)
-2. [Codeforces](https://github.com/Glorycs29/CodeForces)
-3. [NR_AceCoding Practice](https://github.com/Glorycs29/NR_AceCoding_Practice)
-4. [GitHub Learning](https://github.com/Glorycs29/GitHub_Learning)
-5. [CPP STL-Handbook](https://github.com/Glorycs29/CPP_STL_Handbook)
-6. [HTML-CSS](https://github.com/Glorycs29/HTML-CSS)
-7. [Hackerearth-Practice](https://github.com/Glorycs29/Practice)
-8. [CS-Core-Revision](https://github.com/Glorycs29/CS-Core-Revision)
-9. [Advance-DS-Implementation](https://github.com/Glorycs29/Advance_DS_implementation)
-10. [Basic-DS-Implementation](https://github.com/Glorycs29/Basic_DS_implemention)
-11. [Sorting-Algorithms](https://github.com/Glorycs29/All_Sorting_Algo)
-12. [Bit-Manipulation](https://github.com/Glorycs29/Bit_Manipulation/tree/main)
-13. [My-Learning](https://github.com/Glorycs29/My_Learnings)
-14. [All-Projects](https://github.com/Glorycs29/All-Projects)
+1. [Binary Search](https://github.com/Glorycs29/Binary_Search) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" />
+
+2. [Codeforces](https://github.com/Glorycs29/CodeForces) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" />
+
+3. [NR_AceCoding Practice](https://github.com/Glorycs29/NR_AceCoding_Practice) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" />
+
+4. [GitHub Learning](https://github.com/Glorycs29/GitHub_Learning) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" />
+
+5. [CPP STL-Handbook](https://github.com/Glorycs29/CPP_STL_Handbook)  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" />
+
+6. [HTML-CSS](https://github.com/Glorycs29/HTML-CSS) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" />
+
+7. [Hackerearth-Practice](https://github.com/Glorycs29/Practice) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" />
+
+8. [CS-Core-Revision](https://github.com/Glorycs29/CS-Core-Revision) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" />
+
+9. [Advance-DS-Implementation](https://github.com/Glorycs29/Advance_DS_implementation) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" />
+
+10. [Basic-DS-Implementation](https://github.com/Glorycs29/Basic_DS_implemention) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" />
+
+11. [Sorting-Algorithms](https://github.com/Glorycs29/All_Sorting_Algo) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" />
+
+12. [Bit-Manipulation](https://github.com/Glorycs29/Bit_Manipulation/tree/main) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" />
+
+13. [My-Learning](https://github.com/Glorycs29/My_Learnings) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" />
+
+14. [All-Projects](https://github.com/Glorycs29/All-Projects) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" />
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
