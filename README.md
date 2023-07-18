@@ -11,21 +11,31 @@
 </p>
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glorycs29&label=Profile%20views&color=0e75b6&style=flat" alt="glorycs29" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glorycs29" alt="glorycs29" /></a> </p>
 
-- 🌱 I’m currently learning ̣̣<code>**JavaScripṭ**</code>, <code>**React**</code>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+- 🌱 I’m currently learning ̣̣<code>**JavaScripṭ**</code>, <code>**Node.js**</code>
 
 - 💬 Ask me about **C++, C, Operating system, DSA, Object Oriented Programming, Real-time system, Compiler Design, HTML, CSS, ReactJS, JavaScript**
 
 - 📫 [How to reach me](https://www.linkedin.com/in/glory-gupta-726413204/)
 
 - ⚡ Fun fact **I'm a quick learner, technology makes me curious.**
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,6 +46,10 @@
 <a href="https://www.leetcode.com/prikarshglory(https://leetcode.com/prikarshglory/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prikarshglory(https://leetcode.com/prikarshglory/)" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/anonymous0716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/anonymous0716" height="30" width="40" /></a>
 </p>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
@@ -53,6 +67,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glorycs29&" alt="glorycs29" /></p>
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ### 😎 My Important Repos:
@@ -72,3 +88,5 @@
 13. [My-Learning](https://github.com/Glorycs29/My_Learnings)
 14. [All-Projects](https://github.com/Glorycs29/All-Projects)
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
