@@ -100,4 +100,8 @@
 18. [A2](https://github.com/Glorycs29/A20j)
 19. [Reactjs](https://github.com/Glorycs29/Reactjs)
 
+
+[![Glorycs29's GitHub | Languages Over Time](https://stats.quine.sh/Glorycs29/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Glorycs29)
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
