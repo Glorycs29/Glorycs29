@@ -96,8 +96,8 @@
 14. [My-Learning](https://github.com/Glorycs29/My_Learnings)
 15. [All-Projects](https://github.com/Glorycs29/All-Projects)
 16. [Special-questions](https://github.com/Glorycs29/Special_questions/tree/main)
-17. [C2](https://github.com/Glorycs29/C2_Ladder/tree/main)
-18. [A2](https://github.com/Glorycs29/A20j)
+17. [C2_ladder](https://github.com/Glorycs29/C2_Ladder/tree/main)
+18. [A2_ladder](https://github.com/Glorycs29/A20j)
 19. [Reactjs](https://github.com/Glorycs29/Reactjs)
 
 
