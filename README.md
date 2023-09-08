@@ -100,7 +100,7 @@
 17. [C2_ladder](https://github.com/Glorycs29/C2_Ladder/tree/main)
 18. [A2_ladder](https://github.com/Glorycs29/A20j)
 19. [Reactjs](https://github.com/Glorycs29/Reactjs)
-20. [Development->Full stack]()
+20. [Development-Guide--> Full-Stack](https://github.com/Glorycs29/Development-Doubts-Solutions-)
 
 <!-- [![Glorycs29's GitHub | Languages Over Time](https://stats.quine.sh/Glorycs29/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Glorycs29)
 -->
