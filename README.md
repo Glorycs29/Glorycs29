@@ -76,7 +76,7 @@
 <!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" />
 -->
 
-[![An image of @glorycs29's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/glorycs29)](https://holopin.io/@glorycs29)
+[![An image of @glorycs29's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/glorycs29)](https://holopin.me/glorycs29)
 
 ### 😎  My Important Repos:
 
