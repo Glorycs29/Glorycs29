@@ -40,7 +40,14 @@
 <h3 align="left"> <img class=" lazyloaded" src="https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/blob/master/Emojis/Activities/Party%20Popper.png?raw=true" alt="Party Popper" title="Party Popper" width="31" height="31">
  Connect with me: <img class=" lazyloaded" src="https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/blob/master/Emojis/Activities/Party%20Popper.png?raw=true" alt="Party Popper" title="Party Popper" width="31" height="31">
  </h3>
-<p align="left">
+ 
+- [LinkedIn](https://www.linkedin.com/in/glory-gupta-726413204/)
+- [Facebook](https://www.facebook.com/campaign/landing.php?campaign_id=14884913640&extra_1=s%7Cc%7C589460569891%7Cb%7Csign%20in%20to%20facebook%7C&placement=&creative=589460569891&keyword=sign%20in%20to%20facebook&partner_id=googlesem&extra_2=campaignid%3D14884913640%26adgroupid%3D128696221832%26matchtype%3Db%26network%3Dg%26source%3Dnotmobile%26search_or_content%3Ds%26device%3Dc%26devicemodel%3D%26adposition%3D%26target%3D%26targetid%3Dkwd-11079269337%26loc_physical_ms%3D9145182%26loc_interest_ms%3D%26feeditemid%3D%26param1%3D%26param2%3D&gclid=Cj0KCQjwpompBhDZARIsAFD_Fp9Wq-KN4D2wICF6WWUzbqPU05q_782XX5qpw7eVFJNYBg2q7vY_fW0aAjHHEALw_wcB)
+- [Quine](https://quine.sh/user/Glorycs29)
+- [Devpost](https://devpost.com/Glorycs29?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+
+ 
+<!--<p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/glory-gupta-726413204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/glory-gupta-726413204/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/yuneeshi071999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/yuneehi071999" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/prikashglory" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/prikarshglory" height="30" width="40" /></a>
@@ -49,7 +56,7 @@
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/anonymous0716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/anonymous0716" height="30" width="40" /></a>
 </p>
 
-
+-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
