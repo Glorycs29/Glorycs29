@@ -102,7 +102,7 @@
 12. [HTML-CSS](https://github.com/Glorycs29/HTML-CSS)
 13. [Hackerearth-Practice](https://github.com/Glorycs29/Practice)
 14. [CS-Core-Revision](https://github.com/Glorycs29/CS-Core-Revision)
-15. [My-Learning](https://github.com/Glorycs29/My_Learnings)
+15. [Web development](https://github.com/Glorycs29/My_Learnings)
 16. [All-Projects](https://github.com/Glorycs29/All-Projects)
 17. [Special-questions](https://github.com/Glorycs29/Special_questions/tree/main)
 18. [C2_ladder](https://github.com/Glorycs29/C2_Ladder/tree/main)
