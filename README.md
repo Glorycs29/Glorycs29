@@ -7,7 +7,7 @@
  
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Passionate%20for%20DSA,%20CP,%20UI/UX;Experienced%20UI%2FUX%20Designer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Passionate%20for%20DSA,%20CP,%20ML/AI;Incoming DE%20Intern%20ServiceNow%20;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <!--[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()-->
@@ -22,13 +22,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 🌱 I’m currently learning ̣̣<code>**JavaScripṭ**</code>, <code>**Node.js**</code>
+- 🌱 I’m currently learning ̣̣<code>**Machine Learning**</code>, <code>**Artificial Intelligence**</code>
 
-- 💬 Ask me about **C++, C, Operating system, DSA, Object Oriented Programming, Real-time system, Compiler Design, HTML, CSS, ReactJS, JavaScript**
+- 💬 Ask me about **C++, C, Python, Operating systems, DSA, Object Oriented Programming, Machine Learning, Compiler Design, HTML, CSS, JavaScript**
 
 - 📫 [How to reach me](https://www.linkedin.com/in/glory-gupta-726413204/)
 
-- ⚡ Fun fact **I'm a quick learner, technology makes me curious.**
+- ⚡ Fun fact **I'm a quick learner; technology makes me curious.**
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -39,7 +39,6 @@
  </h3>
  
 - [LinkedIn](https://www.linkedin.com/in/glory-gupta-726413204/)
-- [Facebook](https://www.facebook.com/campaign/landing.php?campaign_id=14884913640&extra_1=s%7Cc%7C589460569891%7Cb%7Csign%20in%20to%20facebook%7C&placement=&creative=589460569891&keyword=sign%20in%20to%20facebook&partner_id=googlesem&extra_2=campaignid%3D14884913640%26adgroupid%3D128696221832%26matchtype%3Db%26network%3Dg%26source%3Dnotmobile%26search_or_content%3Ds%26device%3Dc%26devicemodel%3D%26adposition%3D%26target%3D%26targetid%3Dkwd-11079269337%26loc_physical_ms%3D9145182%26loc_interest_ms%3D%26feeditemid%3D%26param1%3D%26param2%3D&gclid=Cj0KCQjwpompBhDZARIsAFD_Fp9Wq-KN4D2wICF6WWUzbqPU05q_782XX5qpw7eVFJNYBg2q7vY_fW0aAjHHEALw_wcB)
 - [Quine](https://quine.sh/user/Glorycs29)
 - [Devpost](https://devpost.com/Glorycs29?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
