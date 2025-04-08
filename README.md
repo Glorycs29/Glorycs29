@@ -2,7 +2,7 @@
  #### <h3></h1>
  HEY, HEY, HEY Codiphile! 🤖 </h1>
  </h3>
-<h1 align="center"> This is Glory Gupta  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">This is Glory <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <p align="center">
  
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
